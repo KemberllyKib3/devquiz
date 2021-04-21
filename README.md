@@ -1,9 +1,9 @@
 <h1 align="center">dev.quiz_</h1>
 
 <p align="center">
- <a href="##descrição">Descrição</a> •
+ <a href="#descrição">Descrição</a> •
   <a href="#features">Features</a> •
- <a href="#pre-requisitos">Pré-requisitos</a> • 
+ <a href="#pré-requisitos">Pré-requisitos</a> • 
  <a href="#autor">Autor</a>
 </p>
 
