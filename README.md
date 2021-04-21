@@ -39,7 +39,7 @@ Features
 Pré-requisitos
 =======================
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Flutter](https://flutter.dev). 
+[GIT](https://git-scm.com/downloads), [FLUTTER](https://flutter.dev/docs/get-started/install). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ```bash
