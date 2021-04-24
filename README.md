@@ -24,16 +24,16 @@ Features
 =======================
 - [x] Splash Screen
 - [x] Home Page
-  - [x] AppBar
+  - [x] Profile
   - [x] Score Card
   - [x] Quizzes Cards
-- [ ] Challenge Page
-  - [x] AppBar
-  - [x] Question/Options > Stylization
-  - [ ] Jump/Next Buttons
+- [x] Challenge Page
+  - [x] Challenge ProgressBar
+  - [x] Questions
+  - [x] Step Button
 - [ ] Result Page
-- [ ] Finalization Page
-  - [ ] Share/Home Buttons
+  - [ ] Share Button
+  - [x] Back Home Button
 
 Pré-requisitos
 =======================
