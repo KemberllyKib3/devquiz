@@ -13,15 +13,7 @@ class ScoreCardWidget extends StatelessWidget {
       child: Container(
         height: 130,
         decoration: BoxDecoration(
-          // USO DO BOXSHADOW
-          boxShadow: [
-            BoxShadow(
-              color: Colors.grey.withOpacity(0.2), //color of shadow
-              spreadRadius: 2, //spread radius
-              blurRadius: 5, // blur radius
-              offset: Offset(0, 2),
-            )
-          ],
+          
           // USO DO BORDER E BORDERSIDE
           border: Border.fromBorderSide(
             BorderSide(color: AppColors.border),
